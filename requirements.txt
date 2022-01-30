@@ -1,0 +1,10 @@
+discord
+discord_components
+selenium
+discord[voice]
+youtube_dl
+Youtube_Search
+beautifulsoup4
+requests
+pynacl
+asyncio
